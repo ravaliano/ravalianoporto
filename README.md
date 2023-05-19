@@ -13,7 +13,7 @@ Website ini dibuat dalam rangka mengerjakan tugas ketiga individu mata kuliah Pe
 
 ## Tampilan website
 
-![preview of Adrian Ravaliano Wibowo's portfolio website](./docs/images/screencapture-achmad-portfolio-site-webflow-io-2023-05-11-09_15_21.png)
+![preview of Adrian Ravaliano Wibowo's portfolio website](Ravaliano Portofoliopng.png)
 
 Tampilan tersebut dapat dilihat di [link berikut (https://achmad-portfolio-site.webflow.io/)](https://achmad-portfolio-site.webflow.io/)
 
