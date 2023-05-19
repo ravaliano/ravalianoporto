@@ -15,12 +15,12 @@ Website ini dibuat dalam rangka mengerjakan tugas ketiga individu mata kuliah Pe
 
 ![preview of Adrian Ravaliano Wibowo's portfolio website](./preview/previewportofolio.png)
 
-Tampilan tersebut dapat dilihat di [link berikut (https://webflow.com/design/ravaliano-portfolio/)](https://webflow.com/design/ravaliano-portfolio/)
+Tampilan tersebut dapat dilihat di [link berikut (https://webflow.com/design/ravaliano-portfolio/)](https://ravaliano-portfolio.webflow.io/)
 
 ## Optimalisasi website
 
 Nilai lighthouse sebelum optimalisasi
-(screenshot)
+![preview of result analyze Adrian Ravaliano Wibowo's portfolio website](./preview/result2.png)
 
 Nilai lighthouse setelah optimalisasi
 (screenshot)
