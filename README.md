@@ -15,7 +15,7 @@ Website ini dibuat dalam rangka mengerjakan tugas ketiga individu mata kuliah Pe
 
 ![preview of Adrian Ravaliano Wibowo's portfolio website](./preview/previewportofolio.png)
 
-Tampilan tersebut dapat dilihat di [link berikut (https://achmad-portfolio-site.webflow.io/)](https://achmad-portfolio-site.webflow.io/)
+Tampilan tersebut dapat dilihat di [link berikut (https://webflow.com/design/ravaliano-portfolio/)](https://webflow.com/design/ravaliano-portfolio/)
 
 ## Optimalisasi website
 
